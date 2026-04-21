@@ -37,11 +37,5 @@ Enter your name: John
 Choose Vehicle: Car
 Total Cost: $200
 
-Future Improvements:
-Add database (MySQL)
-GUI version (Java Swing / JavaFX)
-Online booking system
-Admin panel
-
 Author:
 Junayed Kabir
